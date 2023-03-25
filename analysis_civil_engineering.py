@@ -3,7 +3,7 @@ import streamlit as st
 import pydeck as pdk
 import plotly.express as px
 
-st.title('日本のICT土木に関するデータ')
+st.title('日本の土木に関するデータ(WIP)')
 st.header('ICT土木工事件数（国土交通省直轄工事）')
 st.write("Data Source :  [国土交通省 - ICT施工の普及拡大に向けた取組](https://www.mlit.go.jp/sogoseisaku/constplan/content/001493469.pdf)")
 
